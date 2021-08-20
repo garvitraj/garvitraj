@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **UI/UX, Java, Python, Frontend Development, Open Source, Community Management**
 
-- 📫 How to reach me **pandeygarvitraj@outlook.com**
+- 📫 Willing gto reach me drop a mail at **pandeygarvitraj@outlook.com**
 
-- 📄 Know about my experiences [**Peek here**](https://www.linkedin.com/in/garvitraj-pandey-5b1311155/)
+- 📄 Want to know about my experiences [**Peek here**](https://www.linkedin.com/in/garvitraj-pandey-5b1311155/)
 
 - ⚡ Want to Know More about me **Google - Garvitraj Pandey**
 
