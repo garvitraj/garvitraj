@@ -11,13 +11,13 @@
 
 - 🤝 I’m doing Problem Solving on **HackerRank and Codeforces**
 
-- 👯 I`m willing to collaborate on [Any Project Related with Java, Python, UI/UX](Any Project Related with Java, Python, UI/UX)
+- 👯 I`m willing to collaborate on **Any Project Related with Java, Python, UI/UX**
 
 - 💬 Ask me about **UI/UX, Java, Python, Frontend Development, Open Source, Community Management**
 
 - 📫 How to reach me **pandeygarvitraj@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/garvitraj-pandey-5b1311155/](https://www.linkedin.com/in/garvitraj-pandey-5b1311155/)
+- 📄 Know about my experiences [**Stalk Here**](https://www.linkedin.com/in/garvitraj-pandey-5b1311155/)
 
 - ⚡ Want to Know More about me **Google - Garvitraj Pandey**
 
