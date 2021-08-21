@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garvitraj Pandey</h1>
-<h3 align="center">A UI/UX Guy, A Passionate Front-end Developer and Competitive Programer from India.</h3>
+<h3 align="center">A UI/UX Guy, Passionate Front-end Developer and Competitive Programer from India.</h3>
 
 
 - 📝 I am currently Btech Sophomore at **Symbiosis International University, Pune**
