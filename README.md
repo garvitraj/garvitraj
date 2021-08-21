@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Garvitraj Pandey</h1>
 <h3 align="center">A UI/UX Guy, a passionate Front-end developer and competitive Programer from India.</h3>
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a> 
 
 - 📝 I am currently Btech Sophomore at **Symbiosis International University, Pune**
 
@@ -54,3 +53,6 @@
 
 <p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://www.framer.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>  </p>
 
+<h3 align="left">My AI - ML Frameworks</h1>
+
+<p align="left"> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/numpy/numpy-ar21.svg" alt="scikit_learn" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
