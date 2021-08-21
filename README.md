@@ -51,7 +51,7 @@
 
 <h3 align="left">Desgin and Prototyping tool</h1>
 
-<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://www.framer.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>   <a href="https://lottiefiles.com/" target="_blank"> <img src="https://github.com/garvitraj/garvitraj/blob/main/Image/LottieFiles_logo.svg" alt="lottiefiles" width="40" height="40"/> </a>  </p>
+<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://www.framer.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>   <a href="https://lottiefiles.com/" target="_blank"> <img src="https://github.com/garvitraj/garvitraj/blob/main/Image/LottieFiles_logo.svg" alt="lottiefiles" width="100" height="100"/> </a>  </p>
 
 <h3 align="left">My AI - ML Frameworks</h1>
 
@@ -74,7 +74,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvitraj&" alt="garvitraj" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garvitraj" alt="garvitraj" /></a> </p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=garvitraj)  
 
 ![Profile views](https://gpvc.arturio.dev/garvitraj)  
