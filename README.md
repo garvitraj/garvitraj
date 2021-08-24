@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Garvitraj Pandey</h1>
 <h3 align="center">A UI/UX Guy, Passionate Front-end Developer and Competitive Programer from India.</h3>
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets3.lottiefiles.com/packages/lf20_row9pz9g.json" mode="bounce" background="#333"  speed="1.2"  style="width: 300px; height: 300px;" hover loop controls autoplay></lottie-player>
 
 - 📝 I am currently Btech Sophomore at **Symbiosis International University, Pune**
 
