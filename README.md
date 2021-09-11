@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Garvitraj Pandey</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Garvitraj Pandey</h1>
 <h3 align="center">A UI/UX Guy, Passionate Front-end Developer and Competitive Programer from India.</h3>
 
 
