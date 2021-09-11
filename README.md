@@ -22,7 +22,7 @@
 
 - ⚡ Want to Know More about me **Google - Garvitraj Pandey**
 
-<h3 align="left">Connect with me on :</h3>
+<h2 align="left">Connect with me on :<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h2>
 <p align="left">
 <a href="https://linkedin.com/in/garvitraj-pandey-5b1311155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garvitraj-pandey-5b1311155" height="30" width="40" /></a>
 <a href="https://twitter.com/garvitrajpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garvitrajpandey" height="30" width="40" /></a>
