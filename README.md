@@ -2,7 +2,7 @@
 <h3 align="center">A UI/UX Guy, Passionate Front-end Developer and Competitive Programer from India.</h3>
 
 
-- 📝 I am currently Btech Sophomore at **Symbiosis International University, Pune**
+- 📝 I am currently Btech Student at **Symbiosis International University, Pune**
 
 - 🔭 I’m currently working on my **UI/UX and JAVA Skills**
 
